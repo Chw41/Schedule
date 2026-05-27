@@ -16,6 +16,8 @@ Company | Title | Date | Description
 
 Competition | Ranking/Award | Date | 
 |:-------------------|:---------------------|:---------------------:
+[OffSec Web Expert](https://github.com/Chw41/OffSec-Certification/tree/main/%5BOSWE%2C%20WEB-300%5D%20Offensive%20Security%20Web%20Expert) |    OSWE   |    2026.05   |
+[Pentera Security Validation Engineer Certification]() |    Pentera   |    2026.04   |
 [OffSec Web Assessor](https://github.com/Chw41/OffSec-Certification/tree/main/%5BOSCP%2C%20PEN-200%5D%20Offensive%20Security%20Certified%20Professional%20) |    OSWA   |    2026.02   |
 [Rapid7 Technical Sales Professional](#Rapid7-Technical-Sales-Professional-RTSP31) |    Rapid7 (RTSP)   |    2026.01   |
 [Rapid7 Sales Professional](#Rapid7-Sales-Professional-RSP) |    Rapid7 (RSP)  |    2026.01   |
@@ -43,9 +45,12 @@ Competition | Ranking/Award | Date |
 
 Title | Date | 
 |:---------------------|:---------------------:
-[DEVCORE CONFERENCE 2026](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.03
-[2026 金盾獎 CTF 賽事線上分享會](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.01
-[/dev/meet 資安小聚](#devmeet-%E8%B3%87%E5%AE%89%E5%B0%8F%E8%81%9A) | 2025.01
+[CYBERSEC 2026 臺灣資安大會]() | 2026.05
+[/dev/meet 資安小聚]() | 2026.04
+[Pentera APAC Partner Summit 2026]() | 2026.04
+[DEVCORE CONFERENCE 2026]() | 2026.03
+[2026 金盾獎 CTF 賽事線上分享會]() | 2026.01
+[/dev/meet 資安小聚](#devmeet-%E8%B3%87%E5%AE%89%E5%B0%8F%E8%81%9A) | 2025.12
 [行政院國家資通安全網路攻防演練攻擊手](#114年行政院國家資通安全網路攻防演練攻擊手) | 2025.04 - 2025.10
 [DEVCORE CONFERENCE 2025](#DEVCORE-CONFERENCE-2025) | 2025.03
 [教育部資安人才培育計畫總期程期末成果展](#教育部資安人才培育計畫總期程期末成果展) | 2025.03
@@ -109,6 +114,12 @@ Fixing CVE-2024-4577 PHP-CGI vulnerability
 
 
 # § Forum/Competition Record
+
+## OffSec Web Expert (OSWE)
+### 2025/05 (PASS)
+解鎖 Offsec Expert 新手村\
+<img width="1456" height="1125" alt="image" src="https://github.com/user-attachments/assets/857eb626-7279-4c3d-85c6-438931fa912f" />
+
 
 ## DEVCORE CONFERENCE 2026
 ### 2024/03/14
